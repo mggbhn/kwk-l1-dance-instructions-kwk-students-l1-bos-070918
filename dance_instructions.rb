@@ -8,4 +8,3 @@ Bounce #{side} foot back up slightly, kicking it a few inches back #{side}, Righ
 
 end
 
-skip_step("left")
