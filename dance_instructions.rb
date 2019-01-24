@@ -8,5 +8,3 @@ Bounce #{side} foot back up slightly, kicking it a few inches back"
 puts "#{side}".capitalize  puts", Right, #{side} and #{side}"
 
 end
-puts "hi"
-puts skip_step("left")
