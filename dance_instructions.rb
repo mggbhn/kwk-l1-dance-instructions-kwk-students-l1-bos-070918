@@ -1,5 +1,5 @@
 def starting_stance 
-  "Plant legs far apart"
+ puts "Plant legs far apart"
 end
 
-puts starting_stance
+ starting_stance
