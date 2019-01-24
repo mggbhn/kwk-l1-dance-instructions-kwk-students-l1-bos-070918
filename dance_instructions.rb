@@ -9,6 +9,14 @@ end
 # end
 
 def skip_step(side)
-  
+  if "#{side}" == "lower"
+    puts Lower
+  end
+  if "#{side}" = "bounce"
+    puts Bounce
+  end
+  if "#{side}" == "briefly"
+    puts Briefly
+  end
 end
 
