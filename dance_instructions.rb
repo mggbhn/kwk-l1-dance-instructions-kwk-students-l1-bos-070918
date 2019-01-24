@@ -12,7 +12,7 @@ def skip_step(side)
   if "#{side}" == "lower"
     puts Lower
   end
-  if "#{side}" = "bounce"
+  if "#{side}" == "bounce"
     puts Bounce
   end
   if "#{side}" == "briefly"
