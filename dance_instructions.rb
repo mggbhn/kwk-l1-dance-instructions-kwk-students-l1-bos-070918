@@ -5,8 +5,8 @@ end
 def skip_step(side)
   puts "Lower #{side} foot to the ground
 Bounce #{side} foot back up slightly, kicking it a few inches back"
-"#{side}".upcase", Right, #{side} and #{side}"
+"#{side}".capitalize ", Right, #{side} and #{side}"
 
 end
-
+puts "hi".upcase
 puts skip_step("left")
