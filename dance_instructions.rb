@@ -12,4 +12,3 @@ def skip_step(side)
   
 end
 
-skip_step("left")
