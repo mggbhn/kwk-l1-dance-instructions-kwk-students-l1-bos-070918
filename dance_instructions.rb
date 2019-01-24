@@ -8,6 +8,8 @@ end
 
 # end
 
-def skip_step("left")
+def skip_step(side)
   
 end
+
+skip_step("left")
