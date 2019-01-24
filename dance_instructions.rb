@@ -1,3 +1,5 @@
+def starting_stance 
+  "Plant legs far apart"
+end
 
-# Code your methods below
-puts "Plan legs far apart"
+puts starting_stance
