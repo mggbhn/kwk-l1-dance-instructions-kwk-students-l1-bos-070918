@@ -9,4 +9,4 @@ Bounce #{side} foot back up slightly, kicking it a few inches back
 
 end
 
-puts skip_step(left)
+puts skip_step("left")
