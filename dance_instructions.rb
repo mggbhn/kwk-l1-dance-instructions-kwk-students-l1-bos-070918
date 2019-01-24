@@ -20,4 +20,4 @@ def skip_step(side)
   end
 end
 
-skip_step(lower)
+puts skip_step(lower)
